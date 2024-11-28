@@ -42,7 +42,7 @@ Basic understanding of COBOL programming.
 # How to Run:
 Save the program as calculator.cbl.
 
-#Compile the program:
+# Compile the program:
 cobc -x calculator.cbl -o calculator
 ./calculator
 
